@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>Emanuele Manzione</Authors>
+    <Company>MHLab</Company>
+    <Description>A library to load and manage plugins in .NET applications. It also includes an hooks/filters system similar to the Wordpress' one.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
