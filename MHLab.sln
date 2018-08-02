@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHLab.Plugins", "MHLab.Plugins\MHLab.Plugins.csproj", "{2C65823C-0884-4D44-8739-F796F1BC0E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C65823C-0884-4D44-8739-F796F1BC0E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C65823C-0884-4D44-8739-F796F1BC0E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C65823C-0884-4D44-8739-F796F1BC0E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C65823C-0884-4D44-8739-F796F1BC0E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AF984F-54DB-44A6-88D4-47E3A7F0E9F8}
+	EndGlobalSection
+EndGlobal
